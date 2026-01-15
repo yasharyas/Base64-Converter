@@ -84,7 +84,8 @@ git push -u origin main
 
 Note: Git is already configured with:
 - Username: yasharyas
-- Email: yasharyas@proton.me
+- Email: yasharya2601@gmail.com
+  
 
 ## Technologies Used
 
